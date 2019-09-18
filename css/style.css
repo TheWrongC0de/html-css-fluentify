@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Pagina{
+  width: 100%;
+  margin: auto;
+  height: 100vh;
+  }
+header{
+  height: 100px;
+  background-color: #0048bd;
+}
+h2{
+  color: white;
+  text-shadow: 35px black;
+  font-size: 30px;
+  padding: 10px;
+  display: inline;
+}
+span{
+  display: inline block;
+  font-style: oblique;
+  color: white;
+  padding: 3px;
+  }
+.TUTOR{
+  left: 500px;
+  border-bottom: 30px;
+  color: GREY;
+}
+.oldman{
+  background: url("..img/oldman.png");
+  height: 50px;
+  width: 50px;
+
+
+}
+section{
+  height: 90px;
+  background-color: white;
+  border: 1px solid black;
+}
+.sectionblue{
+  background-color:#0048bd;
+  height: 90px;
+  border: 1px solid black;
+}
+footer{
+  height: 90px;
+  background-color: #0048bd;
+  border: 1px solid black;
+
+}
