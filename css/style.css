@@ -10,7 +10,7 @@
   height: 100vh;
   }
 header{
-  height: 100px;
+  height: 500px;
   background-color: #0048bd;
 }
 h2{
@@ -46,7 +46,7 @@ span{
   width: 50px;
 }
 section{
-  height: 90px;
+  height: 500px;
   background-color: white;
   /*border: 1px solid black;*/
 }
@@ -78,9 +78,9 @@ section{
 
   }
 .blocco5{
-   height: 90px;
+   height: 1000px;
    width: 50%;
-/*border: 1px solid black;*/
+  /*border: 1px solid black;*/
    display: inline-block;
    }
 .blocco6{
@@ -92,7 +92,7 @@ section{
 }
 .sectionblue{
   background-color:#0048bd;
-  height: 90px;
+  height: 500px;
   border-top: 2px solid grey;
 /*border: 1px solid black;*/
 }
